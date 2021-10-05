@@ -1,6 +1,6 @@
 <?php
 session_start();
-// Change this to your connection info..
+// Change this to your connection info...
 $DATABASE_HOST = '127.0.0.1';
 $DATABASE_USER = 'phpuser';
 $DATABASE_PASS = 'sujaMysql';//'welcomeSuresh';
