@@ -27,6 +27,10 @@ SET time_zone = "+00:00";
 -- Table structure for table `accounts`
 --
 
+CREATE DATABASE phplogin;
+
+USE phplogin;
+
 CREATE TABLE `accounts` (
   `id` int NOT NULL,
   `username` varchar(50) NOT NULL,
