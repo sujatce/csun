@@ -2,7 +2,7 @@
 session_start();
 // Change this to your connection info...
 $DATABASE_HOST = '127.0.0.1';
-$DATABASE_USER = 'phpuser';
+$DATABASE_USER = 'root';
 $DATABASE_PASS = 'sujaMysql';//'welcomeSuresh';
 $DATABASE_NAME = 'phplogin';
 // Try and connect using the info above.
