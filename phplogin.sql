@@ -27,6 +27,9 @@ SET time_zone = "+00:00";
 -- Table structure for table `accounts`
 --
 
+CREATE USER 'phpuser'@'localhost' IDENTIFIED BY 'sujaMysql';
+GRANT ALL PRIVILEGES ON * . * TO 'phpuser'@'localhost';
+
 CREATE DATABASE phplogin;
 
 USE phplogin;
