@@ -26,7 +26,7 @@ if (!isset($_SESSION['loggedin'])) {
 		<div class="content">
 			<h2>Home Page</h2>
 			<p>Hi <?=$_SESSION['name']?>!, you have logged in 5 times and Last Login date: 10/7/2021 9:00 PM</p>
-			<p><h2>Company Confidential Information</h2></p>
+			<h2>Company Confidential Information</h2>
 			<p>CovidLab is committed to protecting the privacy of every person who visits the CovidLab Web site so that each person will feel free to gather information, make inquiries/comments, and/or perform bill payment functions on our site. As part of covidlab's effort to protect the privacy of your personal information while visiting the site, we created this web privacy statement to inform you of the privacy standards used to ensure the security and confidentiality of your information. </p>
 			<a href="">Download Company Confidential File</a>
 		</div>
