@@ -66,7 +66,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Register</a></li>
+        <li><a href="./register.html">Register</a></li>
         <li><a href="#">Contact</a></li>
         <li><a href="./index.html">Login</a></li>
       </ul>
