@@ -25,7 +25,7 @@ if (!isset($_SESSION['loggedin'])) {
 		</nav>
 		<div class="content">
 			<h2>Home Page</h2>
-			<p>Welcome back, <?=$_SESSION['name']?>!</p>
+			<p>Hi <?=$_SESSION['name']?>!, you have logged in 5 times and Last Login date: 10/7/2021 9:00 PM</p>
 		</div>
 	</body>
 </html>

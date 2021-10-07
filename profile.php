@@ -48,10 +48,10 @@ $stmt->close();
 						<td>Username:</td>
 						<td><?=$_SESSION['name']?></td>
 					</tr>
-					<tr>
+					<!--tr>
 						<td>Password:</td>
 						<td><?=$password?></td>
-					</tr>
+					</tr-->
 					<tr>
 						<td>Email:</td>
 						<td><?=$email?></td>
